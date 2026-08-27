@@ -27,7 +27,7 @@ I'm currently exploring **Java, C/C++, React, databases, Data Structures & Algor
   <a href="https://github.com/delower23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/delower23">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -75,7 +75,7 @@ I'm currently exploring **Java, C/C++, React, databases, Data Structures & Algor
 
 ## 🚀 Featured Projects
 
-### 📦 Smart Logistics Management System — SLMS
+### 📦 Smart Logistics Management System  (SLMS)
 
 A full-stack logistics management system designed to manage different business operations from a single platform.
 
@@ -92,7 +92,7 @@ A full-stack logistics management system designed to manage different business o
 
 ---
 
-### 🎓 Smart Student Marks Organizer — SSMO
+### 🎓 Smart Student Marks Organizer (SSMO)
 
 A console-based academic management system developed using **ANSI C**.
 
@@ -106,7 +106,7 @@ A console-based academic management system developed using **ANSI C**.
 
 ---
 
-### 🍽️ Smart Restaurant Management System — SRMS
+### 🍽️ Smart Restaurant Management System (SRMS)
 
 A console-based restaurant management application for handling restaurant menus, customer orders and stored records.
 
@@ -114,7 +114,7 @@ A console-based restaurant management application for handling restaurant menus,
 
 ---
 
-### 🌡️ IoT Cattle Muzzle Temperature Camera
+### 🌡️ IoT Based Cattle Management Syestem (IBCMS)
 
 An embedded IoT project using an **ESP32-S3 CAM** and **MLX90614 infrared temperature sensor** to capture a cattle muzzle image and measure its temperature.
 
@@ -154,31 +154,6 @@ Artificial Intelligence
 Database Systems
 Electronics & Automation
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delower23show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delower23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=delower457&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delower457&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
 ---
 
