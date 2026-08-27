@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md. Delower Sarker
+# 👋 Hey there! I'm Md. Delower Sarker
 
 ### 💻 CSE Undergraduate | Software Developer | IoT & Embedded Systems Enthusiast
 
@@ -24,12 +24,12 @@ I'm currently exploring **Java, C/C++, React, databases, Data Structures & Algor
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/delower23">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:delowersarker23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+    <a href="mailto:delowersarker23@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/delower23">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
 </p>
 
 ---
@@ -110,7 +110,12 @@ A console-based academic management system developed using **ANSI C**.
 
 A console-based restaurant management application for handling restaurant menus, customer orders and stored records.
 
-**Concepts:** Linked List • Queue • File I/O • Menu Management • Order Processing
+**Concepts implemented:**
+* Singly Linked List
+* Queue
+* Menu Management
+* Order Processing
+* File I/O
 
 ---
 
