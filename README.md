@@ -5,7 +5,7 @@ CSE Undergraduate | IoT & Embedded Systems Enthusiast | Software Developer
 
 I'm a **Computer Science & Engineering undergraduate at Daffodil International University** who enjoys learning technology by building practical projects.
 
-I'm currently exploring **Java, C/C++, React, databases, Data Structures & Algorithms, Embedded Systems & IoT**. My goal is to become a versatile software engineer who can understand both the software and hardware side of technology.
+I'm currently exploring **Java, C/C++, React, databases, Data Structures & Algorithms and Embedded Systems & IoT**. My goal is to become a versatile software engineer who can understand both the software and hardware side of technology.
 
 ---
 
