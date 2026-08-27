@@ -1,6 +1,6 @@
 <h1 align="center">MD. DELOWER SARKER</h1>
 <h3 align="center">
-### 💻 CSE Undergraduate | IoT & Embedded Systems Enthusiast | Software Developer
+CSE Undergraduate | IoT & Embedded Systems Enthusiast | Software Developer
 </h3>
 
 I'm a **Computer Science & Engineering undergraduate at Daffodil International University** who enjoys learning technology by building practical projects.
