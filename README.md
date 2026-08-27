@@ -1,4 +1,5 @@
-# 👋 Hey there! I'm Md. Delower Sarker
+<h1 align="center">MD. DELOWER SARKER</h1>
+<h3 align="center">
 
 ### 💻 CSE Undergraduate | Software Developer | IoT & Embedded Systems Enthusiast
 
