@@ -164,14 +164,6 @@ Electronics & Automation
 
 ---
 
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
 ### 🌱 Learn. Build. Experiment. Improve.
 
 > **"The best way to learn Computer Science is to build with it."** 🚀
